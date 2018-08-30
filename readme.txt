@@ -3,3 +3,4 @@ Git is free software 23456.中国
 你好你好你好！
 今天是20180830修改！
 添加分支！
+Creating a new branch is quick & simple.
